@@ -111,13 +111,8 @@ body{
  
 /* Handle */
 .search-body::-webkit-scrollbar-thumb {
-  background: #AAA; 
+  background: #FFF; 
   border-radius: 10px;
-}
-
-/* Handle on hover */
-.search-body::-webkit-scrollbar-thumb:hover {
-  background-color: #FFF;
 }
 
 .text-container{
@@ -127,8 +122,7 @@ body{
     display: -ms-flex;
     display: -o-flex;
     display: flex;
-    justify-content: space-around;
-    //align-items: center;
+    justify-content: space-between;
     //flex-wrap: wrap;
     text-align: center;
 }
