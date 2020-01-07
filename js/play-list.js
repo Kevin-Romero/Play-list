@@ -103,8 +103,12 @@
              
     {nombre: 'Sueño de morir', autor: 'Alex campos', link: 'https://youtu.be/aomWXAFNldQ?t=25', categoria: 'Pop, Balada'},
             
-    {nombre: 'Huesos secos', autor: 'Mauricio fuentes', link: 'https://www.youtube.com/watch?v=_VsJUHGwE24', categoria: 'Pop, Balada'}
-]
+    {nombre: 'Huesos secos', autor: 'Mauricio fuentes', link: 'https://www.youtube.com/watch?v=_VsJUHGwE24', categoria: 'Pop, Balada'},
+    
+    {nombre: 'Como no voy a creer', autor: 'Funky', link: 'https://www.youtube.com/watch?v=KlU6cFcR-JQ', categoria: 'Pop, Balada'},
+     
+    {nombre: 'Tus cuerdas de amor', autor: 'Julio melgar ft Lowsan melgar', link: 'https://www.youtube.com/watch?v=yDdyDDAWRcM', categoria: 'Pop, Balada'}
+ ]
      
     var search = document.getElementById('search');
     var btnSearch = document.getElementById('btn-search');
