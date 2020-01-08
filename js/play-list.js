@@ -31,7 +31,7 @@
             
     {nombre: 'Un dia mas', autor: 'Miguel Balboa', link: 'https://www.youtube.com/watch?v=9UwhEsSnk4Y', categoria: 'Pop, Balada'},
             
-    {nombre: 'Que eres para mi?', autor: 'Alex campos', link: 'https://www.youtube.com/watch?v=Uf1ALItpAOY', categoria: 'Rock, Pop'},
+    {nombre: 'Que eres para mi?', autor: 'Alex campos', link: 'https://www.youtube.com/watch?v=2uRbeHDtFGc', categoria: 'Rock, Pop'},
             
     {nombre: 'Solo para ti', autor: 'Fuego ardiente', link: 'https://www.youtube.com/watch?v=1FB1yhtovnQ', categoria: 'Reggae, SKA'},
             
@@ -103,7 +103,12 @@
              
     {nombre: 'Sueño de morir', autor: 'Alex campos', link: 'https://youtu.be/aomWXAFNldQ?t=25', categoria: 'Pop, Balada'},
             
-    {nombre: 'Huesos secos', autor: 'Mauricio fuentes', link: 'https://www.youtube.com/watch?v=_VsJUHGwE24', categoria: 'Pop, Balada'}
+    {nombre: 'Huesos secos', autor: 'Mauricio fuentes', link: 'https://www.youtube.com/watch?v=_VsJUHGwE24', categoria: 'Pop, Balada'},
+    
+    {nombre: 'Como no voy a creer', autor: 'Funky', link: 'https://www.youtube.com/watch?v=KlU6cFcR-JQ', categoria: 'Pop, Balada'},
+     
+    {nombre: 'Tus cuerdas de amor', autor: 'Julio melgar ft Lowsan melgar', link: 'https://www.youtube.com/watch?v=yDdyDDAWRcM', categoria: 'Pop, Balada'}
+  
 ]
      
     var search = document.getElementById('search');
