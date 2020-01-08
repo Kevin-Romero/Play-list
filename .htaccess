@@ -1,0 +1,4 @@
+Options -Indexes
+ErrorDocument 404 /Woodu-beta/error/404.html
+ErrorDocument 403 /Woodu-beta/error/403.html
+
