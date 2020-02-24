@@ -107,8 +107,16 @@
     
     {nombre: 'Como no voy a creer', autor: 'Funky', link: 'https://www.youtube.com/watch?v=KlU6cFcR-JQ', categoria: 'Pop, Balada'},
      
-    {nombre: 'Tus cuerdas de amor', autor: 'Julio melgar ft Lowsan melgar', link: 'https://www.youtube.com/watch?v=yDdyDDAWRcM', categoria: 'Pop, Balada'}
+    {nombre: 'Tus cuerdas de amor', autor: 'Julio melgar ft Lowsan melgar', link: 'https://www.youtube.com/watch?v=yDdyDDAWRcM', categoria: 'Pop, Balada'},
   
+    {nombre: 'Aire', autor: 'Heler', link: 'https://www.youtube.com/watch?v=2ojueDqKWao', categoria: 'Pop, Rock'},
+  
+     {nombre: 'Este muerto no llevo mas (Acustico)', autor: 'Alex campos', link: 'https://www.youtube.com/watch?v=LcACDboVGVI&feature=share&fbclid=IwAR0eYls3hPqQYRGW9jsQWnZls2gq7YD5OLQc-WrlZAAQmT_1JSek-6LIY8s', categoria: 'Pop, Rock, Balada'},
+  
+     {nombre: 'Soy tu Dios', autor: 'Funky', link: 'https://www.youtube.com/watch?v=5ZucbIEaE3M', categoria: 'Pop, balada'},
+
+
+
 ]
      
     var search = document.getElementById('search');
